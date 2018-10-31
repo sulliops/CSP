@@ -9,20 +9,41 @@ This repository is managed and maintain by <a href="https://github.com/cadraroo"
 <!--- End Collaborators Section --->
 <!--- Contents Section --->
 ## Contents:
+<!--- Unit 1 Source Files Section --->
+### Unit 1:
+<!--- Unit 1 Directories Section --->
+##### Directories:
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201" target="_blank">Unit 1 Source Files Directory</a> (Main Directory)
+<!--- End Unit 1 Directories Section --->
+<!--- End Unit 1 Source Files Section --->
+<!--- 1.1 Source Files Section --->
+#### 1.1 Source Files:
+<!--- 1.1 Directories Section --->
+##### Directories:
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.1" target="_blank">1.1 Source Files Directory</a> (Main Directory)
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.1/1.1.3/Source" target="_blank">1.1.3 Source Files Directory</a> (1.1.3 Source Files)
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.1/1.1.4/Source" target="_blank">1.1.4 Source Files Directory</a> (1.1.4 Source Files)
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.1/1.1.6/Source" target="_blank">1.1.6 Source Files Directory</a> (1.1.6 Source Files)
+<!--- End 1.1 Directories Section --->
+<!--- End 1.1 Source Files Section --->
+<!--- 1.2 Source Files Section --->
+#### 1.2 Source Files:
+<!--- 1.2 Directories Section --->
+##### Directories:
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.1" target="_blank">1.2.4 Source Files Directory</a> (1.2.4 Source Files)
+<!--- End 1.2 Directories Section --->
+<!--- End 1.2 Source Files Section --->
 <!--- 1.3 Source Files Section --->
-### 1.3 Source Files:
+#### 1.3 Source Files:
 <!--- 1.3 Directories Section --->
-#### Directories:
-* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/1.3%20Source%20Files" target="_blank">1.3 Source Files Directory</a> (Main Directory)
+##### Directories:
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3" target="_blank">1.3 Source Files Directory</a> (Main Directory)
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_4_teacherSourceFiles" target="_blank">1.3.4 Source Files Directory</a> (1.3.4 Source Files)
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_5_teacherSourceFiles" target="_blank">1.3/5 Source Files Directory</a> (1.3.5 Source Files)
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_6_teacherSourceFiles" target="_blank">1.3.6 Source Files Directory</a> (1.3.6 Source Files)
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_7_teacherSourceFiles" target="_blank">1.3.7 Source Files Directory</a> (1.3.7 Source Files)
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_8_teacherSourceFiles" target="_blank">1.3.8 Source Files Directory</a> (1.3.8 Source Files)
 <!--- End 1.3 Directories Section --->
-#### Archives:
-<!--- 1.3 Archives Section --->
-* <a href="https://github.com/JPIICatholicSchoolCS/CSP/blob/master/1.3%20Source%20Files/1_3_4_teacherSourceFiles.zip" target="_blank">1.3.4 Source Files</a> (Zipped Archive)
-* <a href="https://github.com/JPIICatholicSchoolCS/CSP/blob/master/1.3%20Source%20Files/1_3_5_teacherSourceFiles.zip" target="_blank">1.3.5 Source Files</a> (Zipped Archive)
-* <a href="https://github.com/JPIICatholicSchoolCS/CSP/blob/master/1.3%20Source%20Files/1_3_6_teacherSourceFiles.zip" target="_blank">1.3.6 Source Files</a> (Zipped Archive)
-* <a href="https://github.com/JPIICatholicSchoolCS/CSP/blob/master/1.3%20Source%20Files/1_3_7_teacherSourceFiles.zip" target="_blank">1.3.7 Source Files</a> (Zipped Archive)
-* <a href="https://github.com/JPIICatholicSchoolCS/CSP/blob/master/1.3%20Source%20Files/1_3_8_teacherSourceFiles.zip" target="_blank">1.3.8 Source Files</a> (Zipped Archive)
-<!--- End 1.3 Archives Section --->
 <!--- End 1.3 Source Files Section --->
 <!--- End Contents Section --->
 <!--- End --->
