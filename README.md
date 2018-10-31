@@ -1,5 +1,4 @@
 <!--- Start --->
-# AP Computer Science Principles:
 <!--- Introduction Section --->
 ## Introduction:
 This repository is intended to be used to store source files for projects and activities which cannot be accessed by the student directly.
