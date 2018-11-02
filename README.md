@@ -5,7 +5,7 @@ This repository is intended to be used to store source files for projects and ac
 <!--- End Introduction Section --->
 <!--- Collaborators Section --->
 ## Collaborators:
-This repository is managed and maintain by <a href="https://github.com/cadraroo" target="_blank">cadraroo</a>, <a href="https://github.com/sulliops" target="_blank">sulliops</a>, and <a href="https://github.com/spook47" target="_blank">Spook47</a>.
+This repository is managed and maintained by <a href="https://github.com/cadraroo" target="_blank">cadraroo</a>, <a href="https://github.com/sulliops" target="_blank">sulliops</a>, and <a href="https://github.com/spook47" target="_blank">Spook47</a>.
 <!--- End Collaborators Section --->
 <!--- Contents Section --->
 ## Contents:
