@@ -39,7 +39,7 @@ This repository is managed and maintained by <a href="https://github.com/cadraro
 ##### Directories:
 * <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3" target="_blank">1.3 Source Files Directory</a> (Main Directory)
 * <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_4_teacherSourceFiles" target="_blank">1.3.4 Source Files Directory</a> (1.3.4 Source Files)
-* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_5_teacherSourceFiles" target="_blank">1.3/5 Source Files Directory</a> (1.3.5 Source Files)
+* <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_5_teacherSourceFiles" target="_blank">1.3.5 Source Files Directory</a> (1.3.5 Source Files)
 * <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_6_teacherSourceFiles" target="_blank">1.3.6 Source Files Directory</a> (1.3.6 Source Files)
 * <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_7_teacherSourceFiles" target="_blank">1.3.7 Source Files Directory</a> (1.3.7 Source Files)
 * <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_8_teacherSourceFiles" target="_blank">1.3.8 Source Files Directory</a> (1.3.8 Source Files)
