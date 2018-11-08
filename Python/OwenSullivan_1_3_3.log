@@ -1,0 +1,49 @@
+# IPython log file
+
+%cd "C:\Users\owen.sullivan\Documents\AP CSP\GitHub\CSP\Python"
+# Thu, 08 Nov 2018 08:39:14
+# 1.3.3
+# Thu, 08 Nov 2018 08:39:28
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpzzsizl.py"# Thu, 08 Nov 2018 08:39:54
+age_limit_output(13)
+# Thu, 08 Nov 2018 08:40:35
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpiohmjo.py"# Thu, 08 Nov 2018 08:40:42
+report_grade(80)
+# Thu, 08 Nov 2018 08:44:11
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpj1kwbz.py"# Thu, 08 Nov 2018 08:44:19
+report_grade(79)
+# Thu, 08 Nov 2018 08:44:45
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpkxhsjc.py"# Thu, 08 Nov 2018 08:44:53
+%run "c:\users\owen~1.sul\appdata\local\temp\tmp73yz2s.py"# Thu, 08 Nov 2018 08:44:55
+report_grade(79)
+# Thu, 08 Nov 2018 08:45:04
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpxniyno.py"# Thu, 08 Nov 2018 08:45:06
+report_grade(79)
+# Thu, 08 Nov 2018 08:45:27
+report_grade(80)
+# Thu, 08 Nov 2018 08:45:35
+report_grade(60)
+# Thu, 08 Nov 2018 08:45:56
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpz4rqnm.py"# Thu, 08 Nov 2018 08:45:58
+report_grade(60)
+# Thu, 08 Nov 2018 08:46:18
+%run "c:\users\owen~1.sul\appdata\local\temp\tmp7mzitj.py"# Thu, 08 Nov 2018 08:46:21
+report_grade(60)
+# Thu, 08 Nov 2018 08:46:32
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpxhybtf.py"# Thu, 08 Nov 2018 08:46:35
+report_grade(60)
+# Thu, 08 Nov 2018 08:46:52
+%run "c:\users\owen~1.sul\appdata\local\temp\tmp3iyd6q.py"# Thu, 08 Nov 2018 08:46:55
+report_grade(60)
+# Thu, 08 Nov 2018 08:49:28
+%run "c:\users\owen~1.sul\appdata\local\temp\tmplim6bn.py"# Thu, 08 Nov 2018 08:49:32
+report_grade(60)
+# Thu, 08 Nov 2018 08:50:46
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpfvdvzl.py"# Thu, 08 Nov 2018 08:50:49
+report_grade(60)
+# Thu, 08 Nov 2018 08:50:53
+report_grade(79)
+# Thu, 08 Nov 2018 08:50:55
+report_grade(780)
+# Thu, 08 Nov 2018 09:01:40
+%logstop

@@ -1,0 +1,50 @@
+# IPython log file
+
+In []: import matplotlib.pyplot as plt
+In []: a = randn(10000)
+In []: plt.hist(a)
+In []: plt.show()
+import matplotlib.pyplot as plt
+a = randn(10000)
+plt.hist(a)
+#[Out]# (array([    8.,    62.,   406.,  1514.,  2877.,  2933.,  1652.,   454.,
+#[Out]#           85.,     9.]), array([-4.1023629 , -3.2895439 , -2.47672489, -1.66390589, -0.85108688,
+#[Out]#        -0.03826788,  0.77455113,  1.58737013,  2.40018914,  3.21300814,
+#[Out]#         4.02582715]), <a list of 10 Patch objects>)
+plt.show()
+plt.hist(a)
+#[Out]# (array([    8.,    62.,   406.,  1514.,  2877.,  2933.,  1652.,   454.,
+#[Out]#           85.,     9.]), array([-4.1023629 , -3.2895439 , -2.47672489, -1.66390589, -0.85108688,
+#[Out]#        -0.03826788,  0.77455113,  1.58737013,  2.40018914,  3.21300814,
+#[Out]#         4.02582715]), <a list of 10 Patch objects>)
+plt.show()
+plt.show()
+%cd "C:\Users\owen.sullivan\Documents\AP CSP\GitHub\CSP\Unit 1\1.3\1.3.2"
+import matplotlib.pyplot as plt
+a = randn(10000)
+plt.hist(a)
+#[Out]# (array([  3.00000000e+00,   2.60000000e+01,   1.97000000e+02,
+#[Out]#          1.10800000e+03,   2.56500000e+03,   3.21900000e+03,
+#[Out]#          2.04800000e+03,   7.25000000e+02,   1.02000000e+02,
+#[Out]#          7.00000000e+00]), array([-4.46966912, -3.63165379, -2.79363846, -1.95562313, -1.1176078 ,
+#[Out]#        -0.27959247,  0.55842286,  1.39643819,  2.23445352,  3.07246886,
+#[Out]#         3.91048419]), <a list of 10 Patch objects>)
+plt.show()
+import matplotlib.pyplot as plt
+a = randn(10000)
+plt.hist(a)
+#[Out]# (array([  1.20000000e+01,   1.18000000e+02,   6.67000000e+02,
+#[Out]#          1.94200000e+03,   3.09100000e+03,   2.67600000e+03,
+#[Out]#          1.18700000e+03,   2.60000000e+02,   4.40000000e+01,
+#[Out]#          3.00000000e+00]), array([-3.83686243, -3.02398051, -2.21109859, -1.39821667, -0.58533475,
+#[Out]#         0.22754717,  1.04042909,  1.85331101,  2.66619293,  3.47907486,
+#[Out]#         4.29195678]), <a list of 10 Patch objects>)
+plt.show()
+%logstart -ort owenSullivan_1_3_2.log
+%cd "C:\Users\owen.sullivan\Documents\AP CSP\GitHub\CSP\Python"
+%logstart -ort owenSullivan_1_3_2.log
+%logstop -ort owenSullivan_1_3_2.log
+# Fri, 02 Nov 2018 09:55:21
+# Owen Sullivan 1.3.2 IPython log
+# Fri, 02 Nov 2018 10:02:14
+# Change for GitHUb.
