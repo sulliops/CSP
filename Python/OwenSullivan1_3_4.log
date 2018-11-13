@@ -1,0 +1,91 @@
+# IPython log file
+
+%cd "C:\Users\owen.sullivan\Documents\AP CSP\GitHub\CSP\Python"
+%logstart OwenSullivan1_3_4.py
+%logstop
+ls
+rm  OwenSullivan1_3_4.py
+%logstart OwenSullivan1_3_4.log
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpqplmcn.py"
+food_id(banana)
+food_id(apple)
+food_id(banana)
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpd4on_s.py"
+food_id(banana)
+%run "c:\users\owen~1.sul\appdata\local\temp\tmp0s7qmc.py"
+food_id(banana)
+food_id(banana)
+food_id(banana)
+food_id(apple)
+%run -i "c:\users\owen~1.sul\appdata\local\temp\tmp9116yx.py"
+food_id(apple)
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpomifc4.py"
+food_id(apple)
+food_id('apple')
+#[Out]# 'NOT Citrus, Fruit'
+food_id(apple)
+food_id('apple')
+#[Out]# 'NOT Citrus, Fruit'
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpoetrh9.py"
+%run "c:\users\owen~1.sul\appdata\local\temp\tmprmw01c.py"
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpporrc9.py"
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpaoj93u.py"
+%run "c:\users\owen~1.sul\appdata\local\temp\tmp7hhqnt.py"
+is_gay(Owen)
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpxizlbf.py"
+%logstop
+# Mon, 12 Nov 2018 08:45:01
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpno2gy2.py"# Mon, 12 Nov 2018 08:45:10
+food_id(banana)
+# Mon, 12 Nov 2018 08:45:15
+food_id('banana')
+#[Out]# 'NOT Citrus, Fruit'
+# Mon, 12 Nov 2018 08:46:42
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpwirjsd.py"# Mon, 12 Nov 2018 08:46:50
+food_id_test('apple')
+# Mon, 12 Nov 2018 08:47:44
+food_id_test()
+#[Out]# True
+# Mon, 12 Nov 2018 08:52:28
+%run "c:\users\owen~1.sul\appdata\local\temp\tmprpufbe.py"# Mon, 12 Nov 2018 08:52:31
+f(12)
+# Mon, 12 Nov 2018 08:54:08
+%run "c:\users\owen~1.sul\appdata\local\temp\tmphrht2n.py"# Mon, 12 Nov 2018 08:54:23
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpqfjfrt.py"# Mon, 12 Nov 2018 08:54:40
+%run "c:\users\owen~1.sul\appdata\local\temp\tmp0qaqla.py"# Mon, 12 Nov 2018 08:54:44
+f(12)
+# Mon, 12 Nov 2018 08:58:26
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpfxg3r0.py"# Mon, 12 Nov 2018 08:58:39
+%run "c:\users\owen~1.sul\appdata\local\temp\tmprqv3mi.py"# Mon, 12 Nov 2018 08:58:54
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpigdbmm.py"# Mon, 12 Nov 2018 08:59:29
+%run "c:\users\owen~1.sul\appdata\local\temp\tmp2tqprm.py"# Mon, 12 Nov 2018 08:59:53
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpbgmr3m.py"# Mon, 12 Nov 2018 09:00:09
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpfaujcw.py"# Mon, 12 Nov 2018 09:00:30
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpzkd9fy.py"# Mon, 12 Nov 2018 09:00:33
+f(12)
+# Mon, 12 Nov 2018 09:02:24
+a = raw_input('Give me a number between 5 and 6: ')
+# Mon, 12 Nov 2018 09:02:36
+a
+#[Out]# '5.5'
+# Mon, 12 Nov 2018 09:02:40
+type(a)
+#[Out]# str
+# Mon, 12 Nov 2018 09:03:02
+int(a)
+# Mon, 12 Nov 2018 09:03:14
+float(a)
+#[Out]# 5.5
+# Mon, 12 Nov 2018 09:03:17
+int(a)
+# Mon, 12 Nov 2018 09:03:24
+int(float(a))
+#[Out]# 5
+# Mon, 12 Nov 2018 09:03:52
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpj3urm0.py"# Mon, 12 Nov 2018 09:04:07
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpmir2ip.py"# Mon, 12 Nov 2018 09:04:21
+guess_once(2)
+# Mon, 12 Nov 2018 09:04:30
+guess_once()
+# Mon, 12 Nov 2018 09:15:46
+%logstop
