@@ -1,0 +1,34 @@
+# IPython log file
+
+%cd "C:\Users\owen.sullivan\Documents\AP CSP\GitHub\CSP\Python"
+# Thu, 29 Nov 2018 08:32:40
+validate(a)
+# Thu, 29 Nov 2018 08:33:22
+validate(1)
+# Thu, 29 Nov 2018 08:33:31
+%run "C:/Users/owen.sullivan/Documents/AP CSP/GitHub/CSP/Unit 1/1.3/1.3.8/1.3.8.py"# Thu, 29 Nov 2018 08:33:35
+validate(a)
+# Thu, 29 Nov 2018 08:33:38
+validate(1)
+# Thu, 29 Nov 2018 08:33:44
+validate()
+# Thu, 29 Nov 2018 08:33:54
+%run "C:/Users/owen.sullivan/Documents/AP CSP/GitHub/CSP/Unit 1/1.3/1.3.8/1.3.8.py"# Thu, 29 Nov 2018 08:33:57
+validate()
+# Thu, 29 Nov 2018 08:34:06
+%run "C:/Users/owen.sullivan/Documents/AP CSP/GitHub/CSP/Unit 1/1.3/1.3.8/1.3.8.py"# Thu, 29 Nov 2018 08:34:10
+validate()
+# Thu, 29 Nov 2018 08:34:45
+%run "C:/Users/owen.sullivan/Documents/AP CSP/GitHub/CSP/Unit 1/1.3/1.3.8/1.3.8.py"# Thu, 29 Nov 2018 08:34:55
+%run "C:/Users/owen.sullivan/Documents/AP CSP/GitHub/CSP/Unit 1/1.3/1.3.8/1.3.8.py"# Thu, 29 Nov 2018 08:35:02
+guess_winner()
+#[Out]# 4
+# Thu, 29 Nov 2018 08:41:05
+%run "C:/Users/owen.sullivan/Documents/AP CSP/GitHub/CSP/Unit 1/1.3/1.3.8/1.3.8.py"# Thu, 29 Nov 2018 08:41:09
+goguess()
+#[Out]# 1
+# Thu, 29 Nov 2018 08:41:17
+goguess()
+#[Out]# 2
+# Thu, 29 Nov 2018 08:49:24
+%logstop
