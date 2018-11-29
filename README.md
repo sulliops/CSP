@@ -1,11 +1,11 @@
 <!--- Start --->
 <!--- Introduction Section --->
 ## Introduction:
-This repository is intended to be used to store source files for projects and activities which cannot be accessed by the student directly.
+This repository is intended to be used to store source files for projects and activities which cannot be accessed by the student directly. This repository is forked from <a href="https://github.com/JPIICatholicSchoolCS/CSP" target="_blank">JPIICatholicSchoolCS/CSP</a>.
 <!--- End Introduction Section --->
 <!--- Collaborators Section --->
 ## Collaborators:
-This repository is managed and maintained by <a href="https://github.com/cadraroo" target="_blank">cadraroo</a>, <a href="https://github.com/sulliops" target="_blank">sulliops</a>, and <a href="https://github.com/spook47" target="_blank">Spook47</a>.
+This repository is managed and maintained by <a href="https://github.com/sulliops" target="_blank">sulliops</a>.
 <!--- End Collaborators Section --->
 <!--- Contents Section --->
 ## Contents:
