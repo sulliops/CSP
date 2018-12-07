@@ -1,0 +1,124 @@
+# IPython log file
+
+%cd "C:\Users\owen.sullivan\Documents\AP CSP\GitHub\CSP\Python"
+# Fri, 07 Dec 2018 09:03:44
+'''
+JDoe_JSmith_1_4_3: Change pixels in an image.
+'''
+import matplotlib.pyplot as plt
+import os.path
+import numpy as np  # "as" lets us use standard abbreviations
+
+'''Read the image data'''
+# Get the directory of this python script
+directory = os.path.dirname(os.path.abspath(__file__)) 
+# Build an absolute filename from directory + filename
+filename = os.path.join(directory, 'woman.jpg')
+# Read the image data into an array
+img = plt.imread(filename)
+
+'''Show the image data'''
+# Create figure with 1 subplot
+fig, ax = plt.subplots(1, 1)
+# Show the image data in a subplot
+ax.imshow(img, interpolation='none')
+# Show the figure on the screen
+fig.show()
+
+# Fri, 07 Dec 2018 09:03:49
+%run "c:\users\owen~1.sul\appdata\local\temp\tmpzcwyj8.py"# Fri, 07 Dec 2018 09:05:00
+%run "C:/Users/owen.sullivan/Documents/AP CSP/GitHub/CSP/Unit 1/1.4/1.4.3/1.4.3.py"# Fri, 07 Dec 2018 09:05:05
+imshow()
+# Fri, 07 Dec 2018 09:05:32
+type(img)
+#[Out]# numpy.ndarray
+# Fri, 07 Dec 2018 09:05:42
+img
+#[Out]# array([[[ 99, 125, 116],
+#[Out]#         [ 98, 124, 115],
+#[Out]#         [ 96, 121, 115],
+#[Out]#         ..., 
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254]],
+#[Out]# 
+#[Out]#        [[ 99, 125, 116],
+#[Out]#         [ 95, 120, 114],
+#[Out]#         [100, 125, 119],
+#[Out]#         ..., 
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254]],
+#[Out]# 
+#[Out]#        [[102, 129, 122],
+#[Out]#         [ 94, 121, 114],
+#[Out]#         [ 97, 124, 119],
+#[Out]#         ..., 
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254],
+#[Out]#         [254, 254, 254]],
+#[Out]# 
+#[Out]#        ..., 
+#[Out]#        [[ 33,  33,  33],
+#[Out]#         [ 32,  32,  32],
+#[Out]#         [ 33,  33,  35],
+#[Out]#         ..., 
+#[Out]#         [148, 124,  96],
+#[Out]#         [142, 118,  90],
+#[Out]#         [146, 122,  94]],
+#[Out]# 
+#[Out]#        [[ 27,  27,  27],
+#[Out]#         [ 29,  29,  29],
+#[Out]#         [ 32,  32,  32],
+#[Out]#         ..., 
+#[Out]#         [144, 120,  92],
+#[Out]#         [146, 122,  94],
+#[Out]#         [150, 126,  98]],
+#[Out]# 
+#[Out]#        [[ 30,  30,  30],
+#[Out]#         [ 32,  32,  32],
+#[Out]#         [ 35,  35,  35],
+#[Out]#         ..., 
+#[Out]#         [143, 119,  91],
+#[Out]#         [150, 126,  98],
+#[Out]#         [147, 123,  95]]], dtype=uint8)
+# Fri, 07 Dec 2018 09:05:49
+len(img)
+#[Out]# 960
+# Fri, 07 Dec 2018 09:05:59
+len(img[0])
+#[Out]# 584
+# Fri, 07 Dec 2018 09:07:19
+%run "C:/Users/owen.sullivan/Documents/AP CSP/GitHub/CSP/Unit 1/1.4/1.4.3/1.4.3.py"# Fri, 07 Dec 2018 09:09:07
+%cd "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles"# Fri, 07 Dec 2018 09:09:15
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:10:38
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:11:41
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:12:23
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:12:36
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:12:50
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:16:21
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:17:05
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:17:35
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:18:08
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:18:50
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:18:57
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:19:08
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:19:15
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:19:25
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:19:50
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:20:02
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:20:22
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:20:34
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:21:10
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:21:20
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:21:45
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:21:56
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:22:13
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:22:19
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:22:30
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:22:55
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:23:15
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:24:02
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:24:50
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"# Fri, 07 Dec 2018 09:27:28
+%run "C:/Users/owen.sullivan/Downloads/1_4_3_sourceFiles/make_mask.py"
