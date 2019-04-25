@@ -1,7 +1,7 @@
 <!--- Start --->
 <!--- Introduction Section --->
 ## Introduction:
-This repository is intended to be used to store source files for projects and activities which cannot be accessed by the student directly. This repository is forked from <a href="https://github.com/JPIICatholicSchoolCS/CSP" target="_blank">JPIICatholicSchoolCS/CSP</a>.
+This repository is intended to be used to store source files for projects and activities which cannot be accessed by the student directly, and final versions of edited files for projects and activities. This repository was originally forked from <a href="https://github.com/JPIICatholicSchoolCS/CSP" target="_blank">JPIICatholicSchoolCS/CSP</a>, and has since been modified.
 <!--- End Introduction Section --->
 <!--- Collaborators Section --->
 ## Collaborators:
@@ -45,5 +45,27 @@ This repository is managed and maintained by <a href="https://github.com/sulliop
 * <a href="https://github.com/JPIICatholicSchoolCS/CSP/tree/master/Unit%201/1.3/1_3_8_teacherSourceFiles" target="_blank">1.3.8 Source Files Directory</a> (1.3.8 Source Files)
 <!--- End 1.3 Directories Section --->
 <!--- End 1.3 Source Files Section --->
+<!--- 1.4 Source Files Section --->
+#### 1.4 Source Files:
+<!--- 1.4 Directories Section --->
+##### Directories:
+* <a href="https://github.com/sulliops/CSP/tree/master/Unit%201/1.4/1_4_1_sourceFiles" target="_blank">1.4.1 Source Files Directory</a> (1.4.1 Source Files)
+<!--- End 1.4 Directories Section --->
+<!--- End 1.4 Source Files Section --->
+<!--- Unit 3 Source Files Section --->
+### Unit 3:
+<!--- Unit 3 Directories Section --->
+##### Directories:
+* <a href="https://github.com/sulliops/CSP/tree/master/Unit%203" target="_blank">Unit 3 Source Files Directory</a> (Main Directory)
+<!--- End Unit 3 Directories Section --->
+<!--- End Unit 3 Source Files Section --->
+<!--- 3.1 Source Files Section --->
+#### 3.1 Source Files:
+<!--- 3.1 Directories Section --->
+##### Directories:
+* <a href="https://github.com/sulliops/CSP/tree/master/Unit%203/3.1/3.1.4" target="_blank">3.1.4 Source Files Directory</a> (3.1.4 Source Files)
+* <a href="https://github.com/sulliops/CSP/tree/master/Unit%203/3.1/3.1.5" target="_blank">3.1.5 Source Files Directory</a> (3.1.5 Source Files)
+<!--- End 3.1 Directories Section --->
+<!--- End 3.1 Source Files Section --->
 <!--- End Contents Section --->
 <!--- End --->
