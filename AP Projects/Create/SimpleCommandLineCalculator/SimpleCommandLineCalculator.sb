@@ -1,0 +1,169 @@
+intro()
+
+Sub intro
+  TextWindow.WriteLine("Welcome! Choose an option from below.")
+  TextWindow.WriteLine("")
+  TextWindow.WriteLine("1. Addition")
+  TextWindow.WriteLine("2. Subtraction")
+  TextWindow.WriteLine("3. Multiplication")
+  TextWindow.WriteLine("4. Division")
+  TextWindow.WriteLine("")
+  TextWindow.Write("")
+  selection = TextWindow.ReadNumber()
+  If selection = 1 Then
+    TextWindow.Clear()
+    addition()
+  EndIf
+  If selection = 2 Then
+    textwindow.Clear()
+    subtraction()
+  EndIf
+  If selection = 3 Then
+    TextWindow.Clear()
+    multiplication()
+  EndIf
+  If selection = 4 Then
+    TextWindow.Clear()
+    division()
+  EndIf      
+EndSub
+
+Sub end
+  TextWindow.WriteLine("You have chosen to abort the program. Have a nice day!")
+  TextWindow.WriteLine("")
+  Program.Delay(3000)
+  TextWindow.Hide()
+EndSub
+
+Sub addition
+  TextWindow.Clear()
+  TextWindow.WriteLine("You have chosen addition.")
+  TextWindow.WriteLine("Please enter your first number below.")
+  TextWindow.WriteLine("")
+  TextWindow.Write("")
+  num1add = TextWindow.ReadNumber()
+  TextWindow.Clear()
+  TextWindow.WriteLine("Your first number is " + num1add + ". Please enter a second number.")
+  TextWindow.WriteLine("")
+  TextWindow.Write("")
+  num2add = TextWindow.ReadNumber()
+  TextWindow.Clear()
+  num3add = num1add + num2add
+  TextWindow.WriteLine("Your new number is " + num3add + ".")
+  TextWindow.WriteLine("")
+  TextWindow.WriteLine("Would you like to start over? y/n")
+  TextWindow.WriteLine("")
+  addsel = TextWindow.Read()
+  If addsel = "y" Then
+    TextWindow.Clear()
+    intro()
+  EndIf
+  If addsel = "n" Then
+    TextWindow.Clear()
+    end()
+  Endif
+endsub
+
+Sub subtraction
+  TextWindow.Clear()
+  TextWindow.WriteLine("You have chosen subtraction.")
+  TextWindow.WriteLine("Please enter your first number below.")
+  TextWindow.WriteLine("")
+  TextWindow.Write("")
+  num1sub = TextWindow.ReadNumber()
+  TextWindow.Clear()
+  TextWindow.WriteLine("Your first number is " + num1sub + ". Please enter a second number.")
+  TextWindow.WriteLine("")
+  TextWindow.Write("")
+  num2sub = TextWindow.ReadNumber()
+  TextWindow.Clear()
+  num3sub = num1sub - num2sub
+  TextWindow.WriteLine("Your new number is " + num3sub + ".")
+  TextWindow.WriteLine("")
+  TextWindow.WriteLine("Would you like to start over? y/n")
+  TextWindow.WriteLine("")
+  addsel = TextWindow.Read()
+  If addsel = "y" Then
+    TextWindow.Clear()
+    intro()
+  EndIf
+  If addsel = "n" Then
+    TextWindow.Clear()
+    end()
+  Endif
+endsub
+
+Sub multiplication
+  TextWindow.Clear()
+  TextWindow.WriteLine("You have chosen multiplication.")
+  TextWindow.WriteLine("Please enter your first number below.")
+  TextWindow.WriteLine("")
+  TextWindow.Write("")
+  num1mult = TextWindow.ReadNumber()
+  TextWindow.Clear()
+  TextWindow.WriteLine("Your first number is " + num1mult + ". Please enter a second number.")
+  TextWindow.WriteLine("")
+  TextWindow.Write("")
+  num2mult = TextWindow.ReadNumber()
+  TextWindow.Clear()
+  num3mult = num1mult * num2mult
+  TextWindow.WriteLine("Your new number is " + num3mult + ".")
+  TextWindow.WriteLine("")
+  TextWindow.WriteLine("Would you like to start over? y/n")
+  TextWindow.WriteLine("")
+  addsel = TextWindow.Read()
+  If addsel = "y" Then
+    TextWindow.Clear()
+    intro()
+  EndIf
+  If addsel = "n" Then
+    TextWindow.Clear()
+    end()
+  Endif
+endsub
+
+Sub division
+  TextWindow.Clear()
+  TextWindow.WriteLine("You have chosen division.")
+  TextWindow.WriteLine("Please enter your first number below.")
+  TextWindow.WriteLine("")
+  TextWindow.Write("")
+  num1div = TextWindow.ReadNumber()
+  checkforzero()
+EndSub
+
+Sub checkforzero
+  TextWindow.Clear()
+  TextWindow.WriteLine("Your first number is " + num1div + ". Please enter a second number.")
+  TextWindow.WriteLine("")
+  TextWindow.Write("")
+  num2div = TextWindow.ReadNumber()
+  If num2div = 0 Then
+    TextWindow.Clear()
+    TextWindow.WriteLine("Error: You cannot attempt to divide by 0. Please wait to try again.")
+    TextWindow.WriteLine("")
+    Program.Delay(1500)
+    TextWindow.Clear()
+    checkforzero()
+  ElseIf num2div <> 0 then
+    dividewithoutzero()
+  EndIf
+EndSub
+
+Sub dividewithoutzero
+    TextWindow.Clear()
+    num3div = num1div / num2div
+    TextWindow.WriteLine("Your new number is " + num3div + ".")
+    TextWindow.WriteLine("")
+    TextWindow.WriteLine("Would you like to start over? y/n")
+    TextWindow.WriteLine("")
+    addsel = TextWindow.Read()
+    If addsel = "y" Then
+      TextWindow.Clear()
+      intro()
+    EndIf
+    If addsel = "n" Then
+      TextWindow.Clear()
+      end()
+    Endif
+EndSub
