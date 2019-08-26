@@ -19,7 +19,7 @@ This repository is managed and maintained by <a href="https://github.com/sulliop
 <!--- End AP Projects Directories Section --->
 <!--- End AP Projects Section --->
 <!--- Python Section --->
-<pre style="display:none"></pre>
+<pre style="display:none; visibility:hidden;"></pre>
 ### Python:
 <!--- Python Directories Section --->
 ###### Directories:
