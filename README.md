@@ -13,16 +13,16 @@ This repository is managed and maintained by <a href="https://github.com/sulliop
 ### AP Projects:
 <!--- AP Projects Directories Section --->
 ###### Directories:
-- <a href="https://github.com/sulliops/CSP/tree/master/AP%20Projects" target="_blank">AP Projects Directory</a> (Main Directory) \
-- <a href="https://github.com/sulliops/CSP/tree/master/AP%20Projects/Create" target="_blank">Create Project Directory</a> (Create Task) \
-- <a href="https://github.com/sulliops/CSP/tree/master/AP%20Projects/Explore" target="_blank">Explore Project Directory</a> (Explore Task) \
+- <a href="https://github.com/sulliops/CSP/tree/master/AP%20Projects" target="_blank">AP Projects Directory</a> (Main Directory)
+- <a href="https://github.com/sulliops/CSP/tree/master/AP%20Projects/Create" target="_blank">Create Project Directory</a> (Create Task)
+- <a href="https://github.com/sulliops/CSP/tree/master/AP%20Projects/Explore" target="_blank">Explore Project Directory</a> (Explore Task)
 <!--- End AP Projects Directories Section --->
 <!--- End AP Projects Section --->
 <!--- Python Section --->
 ### Python:
 <!--- Python Directories Section --->
 ###### Directories:
-- <a href="https://github.com/sulliops/CSP/tree/master/Python" target="_blank">Python Directory</a> (Main Directory) \
+- <a href="https://github.com/sulliops/CSP/tree/master/Python" target="_blank">Python Directory</a> (Main Directory)
 <!--- End Python Directories Section --->
 <!--- End Python Section --->
 <!--- Source Files Section --->
